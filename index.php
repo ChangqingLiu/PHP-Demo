@@ -49,7 +49,7 @@
         </ul>
         <ul class="nav navbar-nav navbar-primary">
           <li class="active">
-            <a href="basic.html" class="active">IBM Cloud Deployment Services & GTS - OpenShift Container Platform</a>
+            <a href="basic.html" class="active">IBM Cloud Deployment Services - OpenShift Container Platform</a>
           </li>
         </ul>
       </div>
@@ -61,8 +61,8 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1><b> Welcome to China ICDS Enablement !</b></h1>
-          <p>This is ICDS Offering OpenShift Container Platform flavour demo. We hope you enjoyed it.</p>
+          <h1><b> Welcome to China ICDS Enablement Demo World!</b></h1>
+          <p>This is One ICDS Offering OpenShift Container Platform flavour demo based on PHP lanuage. We hope you enjoyed it.</p>
         </div>
       </div>
       <div class="row">
